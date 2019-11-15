@@ -1,0 +1,11 @@
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/obj/Debug/netcoreapp3.0/GameManager.csprojAssemblyReference.cache
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/obj/Debug/netcoreapp3.0/GameManager.AssemblyInfoInputs.cache
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/obj/Debug/netcoreapp3.0/GameManager.AssemblyInfo.cs
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/bin/Debug/netcoreapp3.0/GameManager
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/bin/Debug/netcoreapp3.0/GameManager.deps.json
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/bin/Debug/netcoreapp3.0/GameManager.runtimeconfig.json
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/bin/Debug/netcoreapp3.0/GameManager.runtimeconfig.dev.json
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/bin/Debug/netcoreapp3.0/GameManager.dll
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/bin/Debug/netcoreapp3.0/GameManager.pdb
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/obj/Debug/netcoreapp3.0/GameManager.dll
+/Users/nathangobinet/CNAM/Modèlisation/Pattern/GameManager/obj/Debug/netcoreapp3.0/GameManager.pdb
